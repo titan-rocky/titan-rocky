@@ -1,7 +1,7 @@
 (●'◡'●) はじめまして
 # Albert Richard @titan_rocky
 
-
+![![linkedin](./linkedin.svg)](https://www.linkedin.com/albert-r)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id="titan-rocky/titan-rocky/")
 
 
