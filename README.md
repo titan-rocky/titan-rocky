@@ -1,6 +1,6 @@
 ![titan_rocky](https://user-images.githubusercontent.com/66237117/228255009-443d752c-7d6c-4de2-a3a2-c55eb4c6f8d3.png)
 
-(●'◡'●) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+(●'◡'●) ![visitors](https://visitor-badge.glitch.me/badge?page_id="titan-rocky/titan-rocky/")
 
 - I'm Albert Richard , aka @titan_rocky 
 - 👀 I’m interested in programming , making projects and graphical designing
