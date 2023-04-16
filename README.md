@@ -1,6 +1,6 @@
 ### (●'◡'●) はじめまして
 # Albert Richard 
-@titan_rocky
+### @titan_rocky
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id="titan-rocky/titan-rocky/")
