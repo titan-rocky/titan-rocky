@@ -1,8 +1,11 @@
-(●'◡'●) はじめまして
+### (●'◡'●) はじめまして
+# Albert Richard 
+@titan_rocky
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id="titan-rocky/titan-rocky/")
 
-- I'm Albert Richard , aka @titan_rocky 
+
 - 👀 I’m interested in programming , making projects and graphical designing
 - 🌱 I’m currently learning javascript and Tensorflow
 - 💞️ I’m looking to collaborate on Python projects and Web development
