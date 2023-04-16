@@ -1,4 +1,4 @@
-### (●'◡'●) はじめまして
+(●'◡'●) はじめまして
 # Albert Richard @titan_rocky
 
 
