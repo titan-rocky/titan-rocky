@@ -1,4 +1,4 @@
-<h1 align="center">A Albert Richard</h1>
+<h1 align="center">Albert "Retard"</h1>
 <h3 align="center">Drifting with curtain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titan-rocky&label=Profile%20views&color=0e75b6&style=flat" alt="titan-rocky" /> </p>
