@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/edu_albertr" target="blank"><img src="https://img.shields.io/twitter/follow/edu_albertr?logo=twitter&style=for-the-badge" alt="edu_albertr" /></a> </p>
 
-- 🔭 I’m currently working on **Projects with Next**
+- 🔭 I’m currently working on **Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Neovim and**
+- 👯 I’m looking to collaborate on **Neovim and i3wm**
 
 - 🤝 I’m looking for help with **React - Typescript projects**
 
-- 💬 Ask me about **Asyncio and Flask**
-
-- 📫 How to reach me **albertrardit@gmail.com**
+- 📫 To reach me, use **albertrardit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
