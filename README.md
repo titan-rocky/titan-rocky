@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Neovim and i3wm**
+- 👯 I’m looking to collaborate on projects with **React and Express**
 
-- 🤝 I’m looking for help with **React - Typescript projects**
+- 🤝 I’m looking for help with **Natural Language Processing**
 
 - 📫 To reach me, use **albertrardit@gmail.com**
 
